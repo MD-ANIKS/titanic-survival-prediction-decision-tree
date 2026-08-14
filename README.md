@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Prediction using Decision Tree
+#  Titanic Survival Prediction using Decision Tree
 
 A machine learning classification project that predicts whether a passenger survived the Titanic disaster using a **Decision Tree Classifier**.
 
@@ -34,9 +34,10 @@ The main goal of this project is to implement a **Decision Tree** classification
 5. Encode categorical features
 6. Separate features and target
 7. Split the dataset into training and testing sets
-8. Implement the Decision Tree classifier
-9. Make predictions
-10. Evaluate the model
+8. Apply feature scaling
+9. Implement the Decision Tree classifier
+10. Make predictions
+11. Evaluate the model
 
 ##  Decision Tree
 
@@ -128,9 +129,9 @@ Then open:
 titanic_survival_prediction_decision_tree.ipynb
 ```
 
-##  Learning Outcomes
+##  Outcomes
 
-Through this project, I practiced:
+Through this project:
 
 * Data preprocessing
 * Handling missing values
